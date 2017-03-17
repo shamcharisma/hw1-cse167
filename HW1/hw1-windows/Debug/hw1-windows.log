@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\shameem\documents\computer graphics\cse167x-hw1-windows_vs2012 (2)\hw1\hw1-windows\main.cpp(39): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\shameem\documents\computer graphics\cse167x-hw1-windows_vs2012 (2)\hw1\hw1-windows\main.cpp(40): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\shameem\documents\computer graphics\cse167x-hw1-windows_vs2012 (2)\hw1\hw1-windows\main.cpp(43): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+  hw1-windows.vcxproj -> C:\Users\shameem\Documents\Computer Graphics\CSE167x-hw1-windows_VS2012 (2)\HW1\Debug\hw1-windows.exe
+  hw1-windows.vcxproj -> C:\Users\shameem\Documents\Computer Graphics\CSE167x-hw1-windows_VS2012 (2)\HW1\Debug\hw1-windows.pdb (Full PDB)
